@@ -1,0 +1,16 @@
+0, ['CONTROL', 'F1'], 'RAINBOW'
+1, ['CONTROL', 'F2'], 'RAINBOW'
+2, ['CONTROL', 'F3'], 'RAINBOW'
+3, ['CONTROL', 'F4'], 'RAINBOW'
+4, ['CONTROL', 'F5'], 'RAINBOW'
+5, ['CONTROL', 'F6'], 'RAINBOW'
+6, ['CONTROL', 'F7'], 'RAINBOW'
+7, ['CONTROL', 'F8'], 'RAINBOW'
+8, ['CONTROL', 'F9'], 'RAINBOW'
+9, ['CONTROL', 'F10'], 'RAINBOW'
+10, ['CONTROL', 'F11'], 'RAINBOW'
+11, ['CONTROL', 'F12'], 'RAINBOW'
+12, [], 128, 0, 0
+13, [], 0, 128, 0
+14, [], 0, 0, 128
+15, [], 128, 128, 128
